@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 98f3995f83d4b5a4a83bb11f1943e000
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8858967e9fa140599c800e905c47e95d
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.6973732, y: 1.4239079, z: -2.671939}
+      lookAt: {x: -22.074362, y: -5.0502725, z: 26.583078}
+      up: {x: -0.108284704, y: 0.98649126, z: 0.122920364}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BORDBEN
+    100002: BORDBEN 1
+    100004: BORDBEN 2
+    100006: BORDBEN 3
+    100008: EB-15_R150_33_10
+    100010: EB-15_R150_33_10 1
+    100012: EB-15_R150_33_10 2
+    100014: EB-15_R150_33_11
+    100016: EB-15_R150_33_11 1
+    100018: EB-15_R150_33_11 2
+    100020: EB-15_R150_33_12
+    100022: EB-15_R150_33_12 1
+    100024: EB-15_R150_33_12 2
+    100026: EB-15_R150_33_13
+    100028: EB-15_R150_33_13 1
+    100030: EB-15_R150_33_13 2
+    100032: EB-15_R150_33_14
+    100034: EB-15_R150_33_14 1
+    100036: EB-15_R150_33_14 2
+    100038: Group 1
+    100040: Group 3
+    100042: //RootNode
+    100044: Stainless steel handles stainless steel handle series EB D=15 A=150
+    100046: Stainless steel handles stainless steel handle series EB D=15 A=150 1
+    100048: Stainless steel handles stainless steel handle series EB D=15 A=150 2
+    400000: BORDBEN
+    400002: BORDBEN 1
+    400004: BORDBEN 2
+    400006: BORDBEN 3
+    400008: EB-15_R150_33_10
+    400010: EB-15_R150_33_10 1
+    400012: EB-15_R150_33_10 2
+    400014: EB-15_R150_33_11
+    400016: EB-15_R150_33_11 1
+    400018: EB-15_R150_33_11 2
+    400020: EB-15_R150_33_12
+    400022: EB-15_R150_33_12 1
+    400024: EB-15_R150_33_12 2
+    400026: EB-15_R150_33_13
+    400028: EB-15_R150_33_13 1
+    400030: EB-15_R150_33_13 2
+    400032: EB-15_R150_33_14
+    400034: EB-15_R150_33_14 1
+    400036: EB-15_R150_33_14 2
+    400038: Group 1
+    400040: Group 3
+    400042: //RootNode
+    400044: Stainless steel handles stainless steel handle series EB D=15 A=150
+    400046: Stainless steel handles stainless steel handle series EB D=15 A=150 1
+    400048: Stainless steel handles stainless steel handle series EB D=15 A=150 2
+    2100000: _defaultMat
+    2100002: a8
+    2100004: _16
+    2100006: _14
+    2100008: _6
+    2100010: _7
+    2100012: _18
+    2300000: BORDBEN
+    2300002: BORDBEN 1
+    2300004: BORDBEN 2
+    2300006: BORDBEN 3
+    2300008: EB-15_R150_33_10
+    2300010: EB-15_R150_33_10 1
+    2300012: EB-15_R150_33_10 2
+    2300014: EB-15_R150_33_11
+    2300016: EB-15_R150_33_11 1
+    2300018: EB-15_R150_33_11 2
+    2300020: EB-15_R150_33_12
+    2300022: EB-15_R150_33_12 1
+    2300024: EB-15_R150_33_12 2
+    2300026: EB-15_R150_33_13
+    2300028: EB-15_R150_33_13 1
+    2300030: EB-15_R150_33_13 2
+    2300032: EB-15_R150_33_14
+    2300034: EB-15_R150_33_14 1
+    2300036: EB-15_R150_33_14 2
+    2300038: Group 1
+    2300040: Group 3
+    3300000: BORDBEN
+    3300002: BORDBEN 1
+    3300004: BORDBEN 2
+    3300006: BORDBEN 3
+    3300008: EB-15_R150_33_10
+    3300010: EB-15_R150_33_10 1
+    3300012: EB-15_R150_33_10 2
+    3300014: EB-15_R150_33_11
+    3300016: EB-15_R150_33_11 1
+    3300018: EB-15_R150_33_11 2
+    3300020: EB-15_R150_33_12
+    3300022: EB-15_R150_33_12 1
+    3300024: EB-15_R150_33_12 2
+    3300026: EB-15_R150_33_13
+    3300028: EB-15_R150_33_13 1
+    3300030: EB-15_R150_33_13 2
+    3300032: EB-15_R150_33_14
+    3300034: EB-15_R150_33_14 1
+    3300036: EB-15_R150_33_14 2
+    3300038: Group 1
+    3300040: Group 3
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh BORDBEN
+    4300006: Mesh EB-15_R150_33_10
+    4300008: Mesh EB-15_R150_33_11
+    4300010: Mesh EB-15_R150_33_12
+    4300012: Mesh EB-15_R150_33_13
+    4300014: Mesh EB-15_R150_33_14
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _14
+    second: {fileID: 2100000, guid: 428e73d55b440bc4c8e8ba543f487289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: 96f5b5f5b4987eb499008030a8a4ad38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _18
+    second: {fileID: 2100000, guid: 7a0e1a07e9304014ca29fddf782f0200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: 5a8823597ae871149a3d2739ed127e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: 08a8d78fc08d0f14b934d8232ed28591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 9b6a40071ab62ad4a924937ac8109ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a8
+    second: {fileID: 2100000, guid: f93ddb895a646294a88b5d33abc49dd0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: a2
+    second: {fileID: 2800000, guid: 40a95decaeecea44eb2bf6d6a67906a8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

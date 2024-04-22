@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: d9d32677962668743aad4b3164ecda33
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 314399582fbfd7f4cad4fc8be1e5e6f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: ac3c1811360b0ce47961a8d1190efcef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 2e323c1c78cf27c45837a45b749f9cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 258eb3c7777515c41944072e5bf73652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: fae420564e7634843a61895cedca3241, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Body_Diffuse
+    second: {fileID: 2800000, guid: 50743bac5cef8fa499b1eca4539a99c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Body_Gloss
+    second: {fileID: 2800000, guid: 3862246579d4e8243b3db57390c10a10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Body_Normal
+    second: {fileID: 2800000, guid: 019092f0dfba2da4e877c61d14898648, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Body_Opacity
+    second: {fileID: 2800000, guid: 9a7ad41848c0c6d4481c79cf0ee8a41a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Body_Specular
+    second: {fileID: 2800000, guid: 6471a21b267e6ab4ab7e08db7bad0026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 06e84aa434173b54dbcf188906a19eea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Bottom_Gloss
+    second: {fileID: 2800000, guid: 7ae1be4cd5427e140b6ba34871f3e6aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Bottom_Normal
+    second: {fileID: 2800000, guid: e8992312c7ae46741bf7a352eed369fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Bottom_Opacity
+    second: {fileID: 2800000, guid: 31154d69c7364014b8cb722727f7834a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Bottom_Specular
+    second: {fileID: 2800000, guid: 0bce6cd92bebe4548acd6ec9edaf47c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Hair_Diffuse
+    second: {fileID: 2800000, guid: 78c9e4bc6f1e7334ba2c9bad9451cded, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Hair_Gloss
+    second: {fileID: 2800000, guid: 0e55e4b1936684e41b2116a3b36b99ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Hair_Normal
+    second: {fileID: 2800000, guid: 2837fd3ba9a0e2641bdbd67a1191d013, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Hair_Opacity
+    second: {fileID: 2800000, guid: 68fbc31732b9e3547b724f5618546c23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Hair_Specular
+    second: {fileID: 2800000, guid: 230c85e3c4a2e474398556ae1c1d9ee7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Shoes_Diffuse
+    second: {fileID: 2800000, guid: be3c5ba12a2f43446af8e68ddd57ff4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Shoes_Gloss
+    second: {fileID: 2800000, guid: b3dead71e7294d9449cf5ded8c9d011a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Shoes_Normal
+    second: {fileID: 2800000, guid: 1b6564f651dfad5499303b88019bb886, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Shoes_Opacity
+    second: {fileID: 2800000, guid: c4492c89196619d42a6721217b1d4d95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Shoes_Specular
+    second: {fileID: 2800000, guid: 6dafeae7375855c4aa665271ec30e2ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Top_Diffuse
+    second: {fileID: 2800000, guid: 55a186271e7d6b547b9a552ac89ae377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Top_Gloss
+    second: {fileID: 2800000, guid: 641c3c2963213ad46825c19805671120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Top_Normal
+    second: {fileID: 2800000, guid: 015a7c20afa6290468efda2dc4bd999e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Top_Opacity
+    second: {fileID: 2800000, guid: cbabd4ba82db0ed47a4e88386b5e8e36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_zena_1_Top_Specular
+    second: {fileID: 2800000, guid: 1ede5cdc4406978488dd4a9ea6ac4fc5, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

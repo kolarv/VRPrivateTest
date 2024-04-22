@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 3a0f430ebb31a4449b8aea59c01d0d86
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 617a81ce99dbb094ab7fde85b8a6d67d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 24dfbe760995c804e890d74f522ca6f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 5ed6082a2bc2c2a42abfe20929b7c344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: a62ab31b4e189f04680c74078e126948, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Body_Diffuse
+    second: {fileID: 2800000, guid: f70c3db781afe894aa8b1a9ad00cc480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Body_Gloss
+    second: {fileID: 2800000, guid: 11919a7eec31eb34ca1d2e2a59dfbc79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Body_Normal
+    second: {fileID: 2800000, guid: 76ac2379d62ddcb4da45fbe9bb8865b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Body_Opacity
+    second: {fileID: 2800000, guid: a780c1ed55a32c443b7fc6b9a319c737, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Body_Specular
+    second: {fileID: 2800000, guid: 4beba67bbb817d3469c4164213ff76a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Bottom_Diffuse
+    second: {fileID: 2800000, guid: b508ef2333e29824f910f11aeecc14b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Bottom_Gloss
+    second: {fileID: 2800000, guid: 854cd4d6c6ca1c14986203b49f6ed1dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Bottom_Normal
+    second: {fileID: 2800000, guid: 976b8f1034ef2da4aa51d081bcf8d150, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Bottom_Opacity
+    second: {fileID: 2800000, guid: 38512c0e92baa114189c3771f08483e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Bottom_Specular
+    second: {fileID: 2800000, guid: 48095913dcc052a4696ca997b3ac1dda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 4e21b1013e1919446ba208bebf6ecf9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Shoes_Gloss
+    second: {fileID: 2800000, guid: 7b90ee67c21d4f64ea2440726e2f9a1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Shoes_Normal
+    second: {fileID: 2800000, guid: 3eaf9f29cff87ac43889c14092fa8367, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Shoes_Opacity
+    second: {fileID: 2800000, guid: f6bc25a14352e9a41a875a1a01439a59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Shoes_Specular
+    second: {fileID: 2800000, guid: e0782778e9e59334eb28dcbe488b6811, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Top_Diffuse
+    second: {fileID: 2800000, guid: a6fd7ffaa8266c74e817c85958462341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Top_Gloss
+    second: {fileID: 2800000, guid: 9f998cfc0c9ed124f9c8b0d6264390e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Top_Normal
+    second: {fileID: 2800000, guid: f118bf94abd8e44498f18656144accc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Top_Opacity
+    second: {fileID: 2800000, guid: 5d880aaa20a32554ca2e4f3cf29ba12a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rodic_muz_2_Top_Specular
+    second: {fileID: 2800000, guid: aa5369c8cabf2094caae7568afdfcc7b, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
